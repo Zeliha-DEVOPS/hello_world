@@ -1,2 +1,3 @@
 # hello_world
-my second repository
+My name is Zeliha.
+I like GitHub.
